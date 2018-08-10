@@ -2,7 +2,7 @@
  * StringParserClass.cpp
  *
  *  Created on: Oct 8, 2017
- *      Author: keith
+ *      Author: Joseph Doye
  */
 
 #include <string>
